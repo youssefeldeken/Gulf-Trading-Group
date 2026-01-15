@@ -43,9 +43,11 @@
     ]
   },
   "proxy": "http://localhost:5000",
+  "homepage": ".",
   "devDependencies": {
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.33",
+    
     "tailwindcss": "^3.4.1"
   }
 }
